@@ -15,7 +15,7 @@ COOKIE = ""
 ADMINS = [8181241262]
 
 
-BOT_USERNAME = "@TeraboxProDownloadBot"
+BOT_USERNAME = "TeraboxProDownloadBot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@ProToppers"
